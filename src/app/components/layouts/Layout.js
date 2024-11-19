@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 
 
-function Layout() {
+function Layout({Children}) {
     return (
         <>
         <Navbar/>
