@@ -11,6 +11,9 @@ function Navbar() {
             <Image alt="Navbar Logo" src={"/pizza.svg"} width={60} height={60} />
             <p className="leading-6 text-xl mx-1">Pizza Wizza</p>
             </Link>
+            <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
+
+            </nav>
             </div>
         </header>
     )
