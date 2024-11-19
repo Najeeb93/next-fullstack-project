@@ -1,13 +1,15 @@
 import React, { Children } from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import Home from "@/app/page";
 
 
 function Layout({Children}) {
     return (
         <>
         <Navbar/>
-        <main>{Children}</main>
+        
+        {Children}
         <Footer/>
         </>
     )
