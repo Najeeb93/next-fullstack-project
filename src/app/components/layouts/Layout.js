@@ -8,7 +8,6 @@ function Layout({Children}) {
     return (
         <>
         <Navbar/>
-        
         {Children}
         <Footer/>
         </>
