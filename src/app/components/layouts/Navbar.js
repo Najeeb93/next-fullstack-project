@@ -15,8 +15,7 @@ function Navbar() {
         </Link>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
             <Link href={"/cart"} className="text-white mr-5 cursor-pointer hover:text-gray-200 items-center">
-            Cart
-            <svg
+            Cart <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
