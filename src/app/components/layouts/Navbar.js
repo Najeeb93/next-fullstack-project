@@ -14,7 +14,7 @@ function Navbar() {
           <p className="leading-6 text-xl mx-1">Pizza Wizza</p>
         </Link>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <Link href={"/cart"} className="text-white mr-5 cursor-pointer hover:text-gray-200 items-center"> Cart
+            <Link href={"/cart"} className="text-white mr-5 cursor-pointer hover:text-gray-200 flex items-center"> Cart
              <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
