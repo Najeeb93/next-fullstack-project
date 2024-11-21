@@ -49,7 +49,7 @@ function Navbar() {
               />
             </svg>
             </Link>
-            <Link href={"/cart"} className="text-white mr-5 cursor-pointer hover:text-gray-200 flex items-center"> Cart
+            <Link href={"/cart"} className="text-white mr-5 cursor-pointer hover:text-gray-200 flex items-center"> Login
              <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
