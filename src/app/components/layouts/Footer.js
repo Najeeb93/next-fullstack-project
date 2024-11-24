@@ -14,6 +14,9 @@ function Footer() {
           <Image alt="Navbar Logo" src={"/pizza.svg"} width={60} height={60} />
           <p className="leading-6 text-xl mx-1">Pizza Wizza</p>
         </Link>
+        <p className="text-sm text-gray-100 sm:ml-4 sm:border-1-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
+        Copyright © 2024 Pizza Wizza
+        </p>
         </div>
         </footer>
     )
