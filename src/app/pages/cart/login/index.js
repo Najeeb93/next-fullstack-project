@@ -21,7 +21,7 @@ function Login() {
                       className="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 focus:border-indigo-700 text-gray-700 dark:text-gray-100  leading-tight focus:outline-none focus:shadow-outline"
                       />
                 </div>
-                <div>
+                <div className="mb-4">
                     <label htmlFor="email" className="block text-gray-700 dark:text-sm font-bold mb-2">
                     Username
                     </label>
