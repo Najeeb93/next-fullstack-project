@@ -23,7 +23,7 @@ function Login() {
                 </div>
                 <div className="mb-4">
                     <label htmlFor="pwd" className="block text-gray-700 dark:text-sm font-bold mb-2">
-                    Username
+                    Password
                     </label>
                     <input name="email" type="text" 
                       className="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 focus:border-indigo-700 text-gray-700 dark:text-gray-100  leading-tight focus:outline-none focus:shadow-outline"
