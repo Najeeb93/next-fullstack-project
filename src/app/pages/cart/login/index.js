@@ -21,10 +21,6 @@ function Login() {
                       className="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 focus:border-indigo-700 text-gray-700 dark:text-gray-100  leading-tight focus:outline-none focus:shadow-outline"
                       />
                 </div>
-                <div className="container w-full max-w-md">
-              <form onSubmit={handleSubmit}
-              className="bg-grey-100 dark:bg-gray-900 dark:text-gray-100 border-gradient rounded-lg shadow-2xl px-8 pt-6 pb-8 mb-4"
-              >
                 <div>
                     <label htmlFor="email" className="block text-gray-700 dark:text-sm font-bold mb-2">
                     Username
