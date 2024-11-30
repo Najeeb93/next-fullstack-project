@@ -13,7 +13,7 @@ function Login() {
               <form onSubmit={handleSubmit}
               className="bg-grey-100 dark:bg-gray-900 dark:text-gray-100 border-gradient rounded-lg shadow-2xl px-8 pt-6 pb-8 mb-4"
               >
-                <div>
+                <div className="mb-4">
                     <label htmlFor="email" className="block text-gray-700 dark:text-sm font-bold mb-2">
                     Username
                     </label>
