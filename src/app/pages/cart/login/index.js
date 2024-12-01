@@ -29,7 +29,9 @@ function Login() {
                       className="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 focus:border-indigo-700 text-gray-700 dark:text-gray-100  leading-tight focus:outline-none focus:shadow-outline"
                       />
                 </div>
-                <button type="submit"></button>
+                <button type="submit"
+                className="border text-gray-900 dark:text-gray-100 font-bold dark:border-gray-400 border-gray-900 rounded mr-2 p-2 hover:bg-gradient-to-r from-indigo-700 via-violet-700 to-orange-700  hover:text-gray-100"
+                ></button>
                 </form>  
             </div>
         </div>
